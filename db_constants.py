@@ -1,2 +1,0 @@
-USERS = "users"
-POSTS = "posts"
